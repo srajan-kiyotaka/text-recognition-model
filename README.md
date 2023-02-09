@@ -17,7 +17,10 @@ The above script is a Python program that uses the `Tesseract OCR` (Optical Char
 ## Note
 Note that the accuracy of text recognition using the Tesseract module can be improved by pre-processing the image and providing appropriate configuration options to the image_to_string function. You can find more information on how to use the Tesseract module and improve its accuracy in the official documentation: https://tesseract-ocr.github.io/
 
-## Sample 
+## Sample Image
 
+<img src = "https://github.com/srajan-kiyotaka/text-recognition-model/blob/main/sample.png">
 
+## Sample Output
 
+<Img src = "https://github.com/srajan-kiyotaka/text-recognition-model/blob/main/Output.png">
